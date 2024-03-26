@@ -1,9 +1,9 @@
 <div align="center">
-    <a href="https://rocket-django.onrender.com">
+    <a href="https://appseed.us/product/rocket-pro/django/">
         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272178364-cbac6d97-b2dc-4d95-bab6-891f4ee7d84d.png"" width="64" height="64" alt="Rocket Icon">
     </a>
     <h1>
-        <a href="https://rocket-django-pro.onrender.com">
+        <a href="https://appseed.us/product/rocket-pro/django/">
             Rocket Django PRO
         </a>
     </h1>
@@ -12,11 +12,15 @@
     </p>  
     <h3>
         <a href="https://docs.appseed.us/products/rocket/django/">
-           📖 Read the DOCS
+           📖 Docs
+        </a>
+        &nbsp; &bull; &nbsp;        
+        <a href="https://rocket-django-pro.onrender.com/">
+            Demo
         </a>
         &nbsp; &bull; &nbsp; 
         <a href="https://appseed.us/support/">
-            Get Support 🚀
+            Support 🚀
         </a>
     </h3>    
 </div>
@@ -29,7 +33,7 @@
 
 <br />
 
-## Why Rocket Django
+## Why [Rocket Django PRO](https://appseed.us/product/rocket-pro/django/)
 
 #### ***Supercharge your app instantly, launch faster, make $***
 
@@ -237,4 +241,4 @@ At this point, the product should be LIVE.
 <br />
 
 ---
-[Rocket Django](https://github.com/app-generator/rocket-django) - Premium Seed Project styled with `Tailwind/Flowbite` actively supported by **[AppSeed](https://appseed.us)**.
+[Rocket Django PRO](https://appseed.us/product/rocket-pro/django/) - Premium Seed Project styled with `Tailwind/Flowbite` actively supported by **[AppSeed](https://appseed.us)**.
