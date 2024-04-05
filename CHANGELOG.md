@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.3] 2024-04-05
+### Changes
+
+- Update Canonical links [ layout pages ]
+
 ## [1.0.2] 2024-03-26
 ### Changes
 
