@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.4] 2024-04-15
+### Changes
+
+- Added HOT reload 
+- Update Tailwind/Flowbite Deps
+- Update DOCS (readme)
+- Added MIGR files (minor)
+
 ## [1.0.3] 2024-04-05
 ### Changes
 
