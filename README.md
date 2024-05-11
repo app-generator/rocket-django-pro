@@ -57,27 +57,23 @@ The Django boilerplate with all you need to build your SaaS, AI tool, or any oth
 
 ## Manual Build 
 
-> 👉 Download code
+> 👉 Unzip sources or clone the private repository (requires a [purchase](https://appseed.us/product/rocket-pro/django/))
 
 ```bash
-$ git clone https://github.com/app-generator/rocket-django-pro.git
+$ unzip rocket-django-pro.zip
+// OR
+$ git clone https://github.com/app-generator/priv-rocket-django-pro.git
 $ cd rocket-django-pro
 ```
 
-> 👉 Create `.env` from `env.sample`
+> 👉 Edit `.env` using `env.sample` or keep the default values
 
 ```env
-DEBUG=False
+DEBUG=True
 
 SECRET_KEY=<STRONG_KEY_HERE>
 
-# For Myql or PgSQL Persistence 
-# DB_ENGINE=mysql
-# DB_HOST=localhost
-# DB_NAME=appseed_rocket_django
-# DB_USERNAME=root
-# DB_PASS=
-# DB_PORT=3306
+...
 ```
 
 > 👉 Install **Django** modules via `VENV`  
@@ -116,10 +112,12 @@ $ python manage.py runserver       # start the project
 
 ## Start With Docker
 
-> 👉 Download code
+> 👉 Unzip sources or clone the private repository (requires a [purchase](https://appseed.us/product/rocket-pro/django/))
 
 ```bash
-$ git clone https://github.com/app-generator/rocket-django-pro.git
+$ unzip rocket-django-pro.zip
+// OR
+$ git clone https://github.com/app-generator/priv-rocket-django-pro.git
 $ cd rocket-django-pro
 ```
 
