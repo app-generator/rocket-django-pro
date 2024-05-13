@@ -55,6 +55,37 @@ The Django boilerplate with all you need to build your SaaS, AI tool, or any oth
 
 <br />
 
+## Start in `Docker`
+
+> 👉 Unzip sources or clone the private repository (requires a [purchase](https://appseed.us/product/rocket-pro/django/))
+
+```bash
+$ unzip rocket-django-pro.zip
+// OR
+$ git clone https://github.com/app-generator/priv-rocket-django-pro.git
+$ cd rocket-django-pro
+```
+
+<br />
+
+> Start the APP in `Docker`
+
+```bash
+# Optional (kill all existing containers)
+$ docker container kill $(docker ps -q) ; docker container rm $(docker ps -a -q) ; docker network prune -f 
+# Start the APP
+$ docker-compose up --build 
+```
+
+Visit `http://localhost:5085` in your browser. The app should be up & running. The starter comes with two default users:
+
+- Ordinary user: `test` / `test@appseed.us` / `Pass12__` (the password)
+- Django SuperUser (admin): `admin` / `admin@appseed.us` / `Pass12__` (the password)
+
+Once authenticated with the above credentials, the sidebar shows different items. 
+
+<br />
+
 ## Manual Build 
 
 > 👉 Unzip sources or clone the private repository (requires a [purchase](https://appseed.us/product/rocket-pro/django/))
@@ -107,27 +138,6 @@ $ python manage.py migrate
 $ python manage.py createsuperuser # create the admin
 $ python manage.py runserver       # start the project
 ```
-
-<br />
-
-## Start With Docker
-
-> 👉 Unzip sources or clone the private repository (requires a [purchase](https://appseed.us/product/rocket-pro/django/))
-
-```bash
-$ unzip rocket-django-pro.zip
-// OR
-$ git clone https://github.com/app-generator/priv-rocket-django-pro.git
-$ cd rocket-django-pro
-```
-
-> 👉 Start with Docker Compose
-
-```bash
-$ docker-compose up --build 
-``` 
-
-Visit the app in the browser `localhost:5085`.
 
 <br />
 

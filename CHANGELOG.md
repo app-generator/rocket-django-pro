@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.7] 2024-05-13
+### Changes
+
+- DataTables Improvements
+- Remove Dead Links [ multiple pages ]
+- Update DOCS (readme)
+
 ## [1.0.6] 2024-05-11
 ### Changes
 
