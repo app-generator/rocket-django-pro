@@ -11,7 +11,7 @@
         <strong>TailwindCSS</strong> &bull; <strong>Flowbite</strong> &bull; <strong>API (DRF)</strong> &bull; <strong>Celery Beat</strong> &bull; <strong>DataTables</strong> &bull; <strong>Charts</strong> &bull; <strong>Docker</strong> &bull; <strong>CI/CD</strong>
     </p>  
     <h3>
-        <a href="https://docs.appseed.us/products/rocket/django/">
+        <a href="https://docs.appseed.us/products/rocket/django-pro/">
            📖 Docs
         </a>
         &nbsp; &bull; &nbsp;        
@@ -49,7 +49,7 @@ The Django boilerplate with all you need to build your SaaS, AI tool, or any oth
  - 2 hrs integrate tooling
  - 2 hrs to handle Stripe
  - 1 hrs for Docker
- - 1 hr Google Oauth
+ - 1 hr GitHub Oauth
  - ∞ hrs overthinking...
  - Free [Support](https://appseed.us/support/) via `Email` & [Discord](https://discord.gg/fZC6hup) 
 
@@ -80,7 +80,7 @@ $ docker-compose up --build
 Visit `http://localhost:5085` in your browser. The app should be up & running. The starter comes with two default users:
 
 - Ordinary user: `test` / `test@appseed.us` / `Pass12__` (the password)
-- Django SuperUser (admin): `admin` / `admin@appseed.us` / `Pass12__` (the password)
+- Django SuperUser: `admin` / `admin@appseed.us` / `Pass12__` (the password)
 
 Once authenticated with the above credentials, the sidebar shows different items. 
 

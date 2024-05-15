@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.8] 2024-05-13
+### Changes
+
+- Added [Documentation](https://docs.appseed.us/products/rocket/django-pro/) Link
+
 ## [1.0.7] 2024-05-13
 ### Changes
 
