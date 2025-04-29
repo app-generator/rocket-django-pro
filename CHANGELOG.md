@@ -1,5 +1,19 @@
 # Change Log
 
+## [1.0.11] 2025-04-25
+### [Django Rocket](https://app-generator.dev/product/rocket/django/) Changes
+
+- Codebase Refactoring
+- Added Dynamic Tables module
+- Added Dynamic API Module  
+- Added CLI Module for different internal tasks
+
+## [1.0.10] 2025-03-16
+### Changes
+
+- Reset Migration
+- Update product Links
+
 ## [1.0.9] 2024-11-24
 ### Changes
 
@@ -10,7 +24,7 @@
 ## [1.0.8] 2024-05-13
 ### Changes
 
-- Added [Documentation](https://docs.appseed.us/products/rocket/django-pro/) Link
+- Added [Documentation](https://app-generator.dev/docs/products/django/rocket-pro/index.html) Link
 
 ## [1.0.7] 2024-05-13
 ### Changes
@@ -49,9 +63,9 @@
 
 - Update DOCS (readme)
 - Update Links
-  - [Django Rocket](https://appseed.us/product/rocket/django/) - `Product page`
-  - [Django Rocket PRO](https://appseed.us/product/rocket-pro/django/) - `PRO Version`
-  - [Django eCommerce](https://appseed.us/product/rocket-ecommerce/django/) - `Premium Starter`
+  - [Django Rocket](https://app-generator.dev/product/rocket/django/) - `Product page`
+  - [Django Rocket PRO](https://app-generator.dev/product/rocket-pro/django/) - `PRO Version`
+  - [Django eCommerce](https://app-generator.dev/product/rocket-ecommerce/django/) - `Premium Starter`
 
 ## [1.0.1] 2024-02-06
 ### Changes

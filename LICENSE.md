@@ -1,6 +1,6 @@
 # Company License
 
-Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
+Copyright (c) 2019 - present [AppSeed](http://app-generator.dev/)
 
 <br />
 
@@ -11,7 +11,7 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 | Item | - |
 | ---------------------------------- | --- |
 | Team Size | **Unlimited** |
-| [Support](https://appseed.us/support/) & Updates: | **Lifetime** |
+| [Support](https://app-generator.dev/ticket/create/?product=39) & Updates: | **Lifetime** |
 | --- | --- |
 | Product sale | **YES** |
 | Create multiple personal websites/apps | **YES** |
