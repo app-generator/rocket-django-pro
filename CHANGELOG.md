@@ -1,7 +1,7 @@
 # Change Log
 
 ## [1.0.11] 2025-04-25
-### [Django Rocket](https://app-generator.dev/product/rocket/django/) Changes
+### [Django Rocket PRO](https://app-generator.dev/product/rocket-pro/django/) Changes
 
 - Codebase Refactoring
 - Added Dynamic Tables module
